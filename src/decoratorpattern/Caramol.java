@@ -1,4 +1,4 @@
-
+package decoratorpattern;
 public class Caramol extends AddOnDecorator {
 
     public Beverage  beverage;
